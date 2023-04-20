@@ -2,7 +2,19 @@ import React, { useEffect } from "react";
 import { StatusBar } from "expo-status-bar";
 import { Alert, StyleSheet, Text, View } from "react-native";
 import messaging from "@react-native-firebase/messaging";
+import firebase from "@react-native-firebase/app";
 
+
+if (!firebase.apps.length) {
+  firebase.initializeApp({
+    databaseURL:"<database_url.com>",
+    projectId:"<project-id",
+    appId:"<appId>",
+    apiKey:"<api-key>",
+    messagingSenderId:"messageSenderId",
+    storageBucket: "storage_bucket_url.com"
+  });
+}
 
 export default function App() {
 
