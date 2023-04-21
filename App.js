@@ -7,12 +7,12 @@ import firebase from "@react-native-firebase/app";
 
 if (!firebase.apps.length) {
   firebase.initializeApp({
-    databaseURL:"<database_url.com>",
-    projectId:"<project-id",
-    appId:"<appId>",
-    apiKey:"<api-key>",
-    messagingSenderId:"messageSenderId",
-    storageBucket: "storage_bucket_url.com"
+    databaseURL: "https://sparkze-prod-default-rtdb.firebaseio.com",
+    projectId: "sparkze-prod",
+    appId: "1:776799494858:android:6d3b67b0c3f74bdb174a33",
+    apiKey: "AIzaSyAwC0V0gvj4OTf9NO0DLE0rcgoWR-fNazM",
+    messagingSenderId: "776799494858",
+    storageBucket:"sparkze-prod.appspot.com"
   });
 }
 

@@ -1590,6 +1590,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@notifee/react-native@^7.7.1":
+  version "7.7.1"
+  resolved "https://registry.yarnpkg.com/@notifee/react-native/-/react-native-7.7.1.tgz#ce3f982fb7354519406cb7716f8e861bab0056ce"
+  integrity sha512-E+W91ulI4dxdIrhK6YCyjWqXgrUsVNZYYCSn3gDADmveuR2Yd2uGvbbSW2vUIFU4N4gQQT/5HJdk9Jk83KHbVA==
+
 "@npmcli/fs@^1.0.0":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@npmcli/fs/-/fs-1.1.1.tgz#72f719fe935e687c56a4faecf3c03d06ba593257"
@@ -1905,9 +1910,9 @@
     wonka "^4.0.14"
 
 "@urql/core@>=2.3.1":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@urql/core/-/core-4.0.5.tgz#aa82e3ee1911e88330cf7d1b5b2a005a5dab43c5"
-  integrity sha512-RNhUTNPV/ThI0/QCg4cJeA2RUUzkMMDhf64spHhAJ+Li7L1Qic+oUA36AJZ2Ff4sErzTra1CLbgTcL8dNcYWhw==
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/@urql/core/-/core-4.0.6.tgz#1dedef5d3f40e5842e7febe8d9cf31e8c99a4bff"
+  integrity sha512-RxlX5nxWZsvS1lPCvOdgdYbIVVfih/DrjPzGZ0ThP1GuVycaxw5t0O7XEXXYHICeXNKj95HJBxW0o/37zg+z6Q==
   dependencies:
     "@0no-co/graphql.web" "^1.0.0"
     wonka "^6.3.0"
@@ -3229,6 +3234,14 @@ expo-status-bar@~1.4.4:
   version "1.4.4"
   resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-1.4.4.tgz#6874ccfda5a270d66f123a9f220735a76692d114"
   integrity sha512-5DV0hIEWgatSC3UgQuAZBoQeaS9CqeWRZ3vzBR9R/+IUD87Adbi4FGhU10nymRqFXOizGsureButGZIXPs7zEA==
+
+expo-system-ui@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/expo-system-ui/-/expo-system-ui-2.2.1.tgz#d955d2fcb93e196e183ed79e5da1b4427f1d4896"
+  integrity sha512-a//8woMYFz5k4lSm8Mt84kueuQRv4TEU1ESwZQl0cEZcKlxw5e4t4Z/68KGVzCLWOMUFoCN67BgFwxpwHBbrMw==
+  dependencies:
+    "@react-native/normalize-color" "^2.0.0"
+    debug "^4.3.2"
 
 expo-updates-interface@~0.9.0:
   version "0.9.1"

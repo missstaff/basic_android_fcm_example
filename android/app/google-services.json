@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "776799494858",
+    "firebase_url": "https://sparkze-prod-default-rtdb.firebaseio.com",
+    "project_id": "sparkze-prod",
+    "storage_bucket": "sparkze-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776799494858:android:48451c760a826501174a33",
+        "android_client_info": {
+          "package_name": "com.google.firebase.MESSAGING_EVENT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776799494858-0fj65i37t5pac101317513iv0bhl4lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CZCd6iHsF_XhkZeKiQFE29WFuFFP7Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776799494858-0fj65i37t5pac101317513iv0bhl4lvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776799494858-79bkop0gmj4lc80rru5fn3o06ek951eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.sparkze.main",
+                "app_store_id": "1564134279"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776799494858:android:6d3b67b0c3f74bdb174a33",
+        "android_client_info": {
+          "package_name": "com.missstaff.fcmExample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776799494858-9baoo0oms1n3gvf4f7g70gsblmg0ktt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.missstaff.fcmExample",
+            "certificate_hash": "0a5a7f3e9e139f95cda2b519baaec9974b5d65be"
+          }
+        },
+        {
+          "client_id": "776799494858-asud61dt26g0k3sujsjn8ad5amsja4t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.missstaff.fcmExample",
+            "certificate_hash": "345335f1463a66b5b9a446998d356a7450238025"
+          }
+        },
+        {
+          "client_id": "776799494858-0fj65i37t5pac101317513iv0bhl4lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CZCd6iHsF_XhkZeKiQFE29WFuFFP7Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776799494858-0fj65i37t5pac101317513iv0bhl4lvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776799494858-79bkop0gmj4lc80rru5fn3o06ek951eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.sparkze.main",
+                "app_store_id": "1564134279"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776799494858:android:248355e52cb22bf3174a33",
+        "android_client_info": {
+          "package_name": "com.sparkze.sparkzeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776799494858-0fj65i37t5pac101317513iv0bhl4lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CZCd6iHsF_XhkZeKiQFE29WFuFFP7Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776799494858-0fj65i37t5pac101317513iv0bhl4lvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776799494858-79bkop0gmj4lc80rru5fn3o06ek951eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.sparkze.main",
+                "app_store_id": "1564134279"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
